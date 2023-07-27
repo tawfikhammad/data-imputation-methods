@@ -62,9 +62,5 @@ Contributions to the `SimpleImputer` project are welcome! If you encounter any i
 
 The `SimpleImputer` class is provided under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code according to the terms of the license.
 
-## Contact
-
-For any questions or inquiries, you can reach out to [contact@example.com](mailto:contact@example.com).
-
 ---
 Note: The `SimpleImputer` class provided in this README is a simplified version for illustrative purposes. For a more comprehensive and production-ready implementation, it is recommended to use [scikit-learn's `SimpleImputer`.](https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html)
